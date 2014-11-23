@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'rack'
+gem 'sqlite3'
+gem 'sinatra'
+gem 'sinatra-contrib'
+gem 'sinatra-activerecord'
+gem 'rerun'
